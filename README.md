@@ -9,7 +9,7 @@ This project analyzes how market sentiment (Fear vs Gre ed) influences trader be
 
 ## 📊 Datasets
 
-### Bitcoin Fear & Gre ed Index
+### Bitcoin Fear & Greed Index
 Daily sentiment classification used to capture market psychology.
 
 ### Hyperliquid Trader Data
@@ -89,7 +89,7 @@ A Logistic Regression model was developed to predict daily trader profitability 
 
 - average trade size
 - number of trades
-- market sentiment (Fear vs Gre ed)
+- market sentiment (Fear vs Greed)
 
 **Model Accuracy:** ~64%
 
@@ -116,7 +116,7 @@ An interactive Streamlit dashboard was built to explore insights and predictions
 ## 💡 Strategy Recommendations
 
 - Reduce position sizes and avoid overtrading during Fear markets to manage volatility risk.
-- Focus on selective, high-quality trades during Gre ed conditions.
+- Focus on selective, high-quality trades during Greed conditions.
 - Allow profitable trades to run while maintaining disciplined risk management.
 
 ---
