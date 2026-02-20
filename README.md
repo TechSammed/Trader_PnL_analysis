@@ -1,5 +1,7 @@
 # Trader Performance vs Market Sentiment Analysis
 
+🚀 **Live Dashboard:** https://traderpnlanalysis-9.streamlit.app/
+
 ## 📌 Overview
 This project analyzes how market sentiment (Fear vs Gre ed) influences trader behavior and performance. The objective is to identify behavioral patterns and profitability trends that can support smarter trading decisions and risk management.
 
