@@ -71,7 +71,7 @@ Profitability remained similar across both groups, indicating that overall retur
 ---
 
 ## 📊 Visual Insights
-
+The Streamlit dashboard includes interactive visualizations, performance charts, and behavioral insights.
 Visualizations included:
 
 - PnL distribution comparison
